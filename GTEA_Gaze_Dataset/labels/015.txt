@@ -1,0 +1,4 @@
+<take><fork> (204-241)
+<take><plate> (242-290)
+<take><bowl> (369-417)
+%%%%%%%%%% This is not a good sequence! %%%%%%%%
